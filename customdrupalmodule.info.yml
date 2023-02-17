@@ -1,0 +1,4 @@
+name: Example Module
+description: This is an example module to get started developing a new custom Drupal module
+type: module
+core_version_requirement: ^9||^10

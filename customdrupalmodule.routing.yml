@@ -1,0 +1,7 @@
+customdrupalmodule.example:
+  path: '/customdrupalmodule/example'
+  defaults:
+    _title: 'Example Drupal 9 Module'
+    _controller: '\Drupal\custommodule\Controller\CustomdrupalmoduleController::firstMethod'
+  requirements:
+    _permission: 'access content'
